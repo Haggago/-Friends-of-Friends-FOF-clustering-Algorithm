@@ -1,5 +1,5 @@
 # VERSION 1.0.            MOHAMMED EL-SAYED                                      
-# COPYRIGHT (C) 2020      AIP POTSDAM 
+# COPYRIGHT (C) 2020       POTSDAM 
 # MY PERSONAL CODE FOR THE FRIENDS-OF-FRIENDS (FOF) CLUSTERING ALGORITHM TO IDENTIFY THE STRUCTRE OF COSMIC V-WEB cosmic velocity (V) web from Simulation Illustris-TNG
 
 
